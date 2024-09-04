@@ -47,6 +47,11 @@ This repository contains a comprehensive sales forecasting and analysis project 
 
 This Tableau project serves as a robust tool for analyzing and forecasting sales data, providing valuable insights that can drive business growth. The interactive dashboards allow for deep dives into specific areas of interest, making it an essential resource for decision-makers.
 
+## Worksheets, Dashboards and Storyboard Published Link
+
+    https://public.tableau.com/views/SalesForecasting_17254539999600/SalesForecastingDashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 ## Repository Contents
 
 - **/images**: Contains screenshots of the dashboards and story for a quick visual reference.
