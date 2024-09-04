@@ -7,7 +7,7 @@ This repository contains a comprehensive sales forecasting and analysis project 
 ## Files Included
 
 - **Sales Forecasting.twbx**: The main Tableau packaged workbook containing all dashboards, worksheets, and data sources.
-- **Sales forecasting.csv**: The raw sales data used for analysis in this project.
+- **sales forecast.csv**: The raw sales data used for analysis in this project.
 - **Dashboard Screenshots**:
   - `dashboard_1.png`: Screenshot of the Sales Overview dashboard.
   - `dashboard_2.png`: Screenshot of the Customer Analysis dashboard.
