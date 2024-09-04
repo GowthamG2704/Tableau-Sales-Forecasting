@@ -7,18 +7,18 @@ This repository contains a comprehensive sales forecasting and analysis project 
 ## Files Included
 
 - **Sales Forecasting.twbx**: The main Tableau packaged workbook containing all dashboards, worksheets, and data sources.
-- **sales forecast.csv**: The raw sales data used for analysis in this project.
+- **sales_forecast.csv**: The raw sales data used for analysis in this project.
 - **Dashboard Screenshots**:
-  - `dashboard_1.png`: Screenshot of the Sales Overview dashboard.
-  - `dashboard_2.png`: Screenshot of the Customer Analysis dashboard.
-  - `dashboard_3.png`: Screenshot of the Product Performance dashboard.
+  - `Dashboard_1.png`: Screenshot of the Sales Overview dashboard.
+  - `Dashboard_2.png`: Screenshot of the Customer Analysis dashboard.
+  - `Dashboard_3.png`: Screenshot of the Product Performance dashboard.
 - **Story Screenshot**: 
-  - `storyboard.png`: Screenshot of the final Tableau Story that ties together all the analyses.
+  - `Storyboard.png`: Screenshot of the final Tableau Story that ties together all the analyses.
 
 ## How to Use
 
 1. **Download the Files**: 
-   - Clone the repository or download the `.twbx` file and the data file (`Sales Sample Data.csv`).
+   - Clone the repository or download the `.twbx` file and the data file (`sales_forecast.csv`).
    
 2. **Open in Tableau**:
    - Open the `Sales Forecasting.twbx` file in Tableau Desktop (version 2020.1 or later recommended).
